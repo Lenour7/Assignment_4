@@ -2,3 +2,5 @@ My character is a guy stuck in space and the only way for him to leave the space
 I used the tool pixiliart to sketch my character and design because it was the easiest drawing tool to use. I had to do some measurememnts to get the allignments on top.
 For exporting and importing I wasn't able to do in class because I still had to do the designs because some wouldn't work. I follow a totorial and to import it, you have to first save it as a .png image so that it could go into the assest folder and show up on the game. 
 The most challenging stage I faced was creating the obstacles. This was because the obstacles were really hard to create because my work had already reset and I had to make it again. I was able to do it but it took me a very long time to do this which almost made me lost marks on the assignment.
+First: 
+  
